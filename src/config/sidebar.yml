@@ -1,0 +1,46 @@
+# Sidebar navigation
+
+- label: 'Introduction'
+  link: '/'
+- label: 'Getting started'
+  link: '/getting-started'
+- label: 'Theming'
+  items:
+    - label: 'Basic Theming'
+      link: '/theming'
+    - label: 'Integration with ThemeUI'
+      link: '/theming/theme-ui'
+    - label: 'useAesthetic Hook'
+      link: 'theming/use-aesthetic-hook'
+- label: Component API
+  items:
+    - label: 'AestheticProvider'
+      link: '/api/aesthetic-provider'
+    - label: 'Box'
+      link: '/api/box'
+    - label: 'Button'
+      link: '/api/button'
+    - label: 'Card'
+      link: '/api/card'
+    - label: 'Divider'
+      link: '/api/divider'
+    - label: 'Flex'
+      link: '/api/flex'
+    - label: 'Heading'
+      link: '/api/heading'
+    - label: 'Image'
+      link: '/api/image'
+    - label: 'Link'
+      link: '/api/link'
+    - label: 'ProgressSpinner'
+      link: '/api/progress-spinner'
+    - label: 'Text'
+      link: '/api/text'
+- label: More
+  items:
+    - label: FAQ
+      link: /faq
+    - label: Changelog
+      link: /changelog
+- label: Contributing
+  link: '/contributing'
